@@ -1,6 +1,4 @@
 '''
-To format the code sections in a README file for a GitHub repository, you can use **fenced code blocks** with triple backticks (```) to indicate code snippets. Below is how you would structure the README file with the necessary code formatting:
-markdown
 # ML Platform - README
 
 Welcome to the **Machine Learning Platform**! This platform provides a comprehensive solution for building, training, and deploying machine learning models, including preprocessing pipelines, feature engineering, model selection, training, evaluation, and deployment. This README will guide you through setting up the platform, using its features, and contributing to its development.
@@ -237,12 +235,6 @@ We welcome contributions to enhance the platform! If you'd like to contribute, f
 4. **Make your changes** and ensure all tests pass.
 5. **Push changes** to your fork.
 6. **Submit a pull request** describing your changes.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
