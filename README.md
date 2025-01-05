@@ -1,4 +1,3 @@
-'''
 # ML Platform - README
 
 Welcome to the **Machine Learning Platform**! This platform provides a comprehensive solution for building, training, and deploying machine learning models, including preprocessing pipelines, feature engineering, model selection, training, evaluation, and deployment. This README will guide you through setting up the platform, using its features, and contributing to its development.
