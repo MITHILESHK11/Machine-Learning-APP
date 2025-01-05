@@ -18,8 +18,7 @@ Welcome to the **Machine Learning Platform**! This platform provides a comprehen
 5. [Configuration](#configuration)
 6. [Features](#features)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
+8. [Acknowledgments](#acknowledgments)
 
 ---
 
